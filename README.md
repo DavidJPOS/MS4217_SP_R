@@ -1,1 +1,1 @@
-# MS4217_SP_R
+# MS4217 Stochastic Processes
